@@ -1,2 +1,2 @@
-# Start_Ups
-Start ups
+# Start Ups
+# Patterns of Funding Startups
